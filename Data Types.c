@@ -8,7 +8,6 @@ int main() {
     double d = 4.0;
     char s[] = "HackerRank ";
 
-    
     // Declare second integer, double, and String variables.
     int a;
     double b, dou;
@@ -25,7 +24,6 @@ int main() {
     dou = b + d;
     // Print the sum of the double variables on a new line.
     printf("%0.1lf\n", dou);
-    
     
     // Concatenate and print the String variables on a new line
     // The 's' variable above should be printed first.
